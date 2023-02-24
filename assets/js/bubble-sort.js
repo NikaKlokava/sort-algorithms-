@@ -1,5 +1,4 @@
 async function bubbleSort(arr) {
-  // sorting round
   for (let i = 0; i < arr.length - 1; i++) {
     const rowNumber = i + 1;
     addTableRow(rowNumber, arr);
