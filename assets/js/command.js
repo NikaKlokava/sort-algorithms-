@@ -48,5 +48,4 @@ function createRandomArray(size, maxValue) {
   }
 
   return randomArr;
-  // return [9, 12, 3, 8, 1];
 }
